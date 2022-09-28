@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "counter",
+    "slug": "counter",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
